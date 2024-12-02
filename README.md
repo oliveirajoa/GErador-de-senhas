@@ -1,0 +1,1 @@
+# GErador-de-senhas
